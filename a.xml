@@ -1,0 +1,8 @@
+<Module>
+<ModulePrefs title="d3 Gadget"/>
+<Content type="html">
+<![CDATA[
+<script src="http://d3js.org/d3.v3.min.js"></script>
+]]>
+</Content>
+</Module>
